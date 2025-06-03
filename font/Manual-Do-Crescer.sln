@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manual-Do-Crescer", "Manual-Do-Crescer\Manual-Do-Crescer.csproj", "{1035F388-8061-4926-8380-6296A26094EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1035F388-8061-4926-8380-6296A26094EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1035F388-8061-4926-8380-6296A26094EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1035F388-8061-4926-8380-6296A26094EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1035F388-8061-4926-8380-6296A26094EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5C9F6AC-FB31-49D5-A3E9-8CD8FFD57CA5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+{
+    "dot1": [
+      {
+        "title": "Título do Card 1 - Dot 1",
+        "subtitle": "Subtítulo do Card 1 - Dot 1",
+        "content": "Conteúdo detalhado para o Card 1 quando Dot 1 é selecionado."
+      },
+      {
+        "title": "Título do Card 2 - Dot 1",
+        "subtitle": "Subtítulo do Card 2 - Dot 1",
+        "content": "Conteúdo detalhado para o Card 2 quando Dot 1 é selecionado."
+      }
+
+    ],
+    "dot2": [
+      {
+        "title": "Título do Card 1 - Dot 2",
+        "subtitle": "Subtítulo do Card 1 - Dot 2",
+        "content": "Conteúdo detalhado para o Card 1 quando Dot 2 é selecionado."
+      }
+
+    ]
+
+  }
+  

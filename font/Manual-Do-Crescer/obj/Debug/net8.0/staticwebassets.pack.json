@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Manual-Do-Crescer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Manual-Do-Crescer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\css\\cadastro.css",
+      "PackagePath": "staticwebassets\\css\\cadastro.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\css\\contato.css",
+      "PackagePath": "staticwebassets\\css\\contato.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\css\\servicos.css",
+      "PackagePath": "staticwebassets\\css\\servicos.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\bg\\bg-1 - Copia.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-1 - Copia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\bg\\bg-1-c.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-1-c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\bg\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\bg\\bg-1.png",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\bg\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\bg\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\dec\\bottom-left.svg",
+      "PackagePath": "staticwebassets\\images\\dec\\bottom-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\dec\\bottom-right-p.svg",
+      "PackagePath": "staticwebassets\\images\\dec\\bottom-right-p.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\dec\\bottom-right.svg",
+      "PackagePath": "staticwebassets\\images\\dec\\bottom-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\dec\\dois.svg",
+      "PackagePath": "staticwebassets\\images\\dec\\dois.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\dec\\top-left-p.svg",
+      "PackagePath": "staticwebassets\\images\\dec\\top-left-p.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\dec\\top-right.svg",
+      "PackagePath": "staticwebassets\\images\\dec\\top-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\dec\\um.svg",
+      "PackagePath": "staticwebassets\\images\\dec\\um.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\bebe-cadastro.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\bebe-cadastro.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\bebe-feliz.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\bebe-feliz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\bolinha-cadastro-direito.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\bolinha-cadastro-direito.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\bolinha-cadastro-esquerdo.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\bolinha-cadastro-esquerdo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\chevron-down.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\chevron-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\email.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\email.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\facebook-p.png",
+      "PackagePath": "staticwebassets\\images\\icones\\facebook-p.png"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\facebook.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\icones\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\google.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\instagram-p.png",
+      "PackagePath": "staticwebassets\\images\\icones\\instagram-p.png"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\instagram.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\local.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\local.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\logo-cadastro.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\logo-cadastro.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\seta-aba.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\seta-aba.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\telefone.svg",
+      "PackagePath": "staticwebassets\\images\\icones\\telefone.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\icones\\whatsapp-p.png",
+      "PackagePath": "staticwebassets\\images\\icones\\whatsapp-p.png"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\Balão.png",
+      "PackagePath": "staticwebassets\\images\\img\\Balão.png"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\Bebe Feliz.svg",
+      "PackagePath": "staticwebassets\\images\\img\\Bebe Feliz.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\Bebê capa.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\Bebê capa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\Kaique.jpeg",
+      "PackagePath": "staticwebassets\\images\\img\\Kaique.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\Kaique.png",
+      "PackagePath": "staticwebassets\\images\\img\\Kaique.png"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\Logo.svg",
+      "PackagePath": "staticwebassets\\images\\img\\Logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\Polygon 1.svg",
+      "PackagePath": "staticwebassets\\images\\img\\Polygon 1.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\bb2.jpeg",
+      "PackagePath": "staticwebassets\\images\\img\\bb2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\flor.png",
+      "PackagePath": "staticwebassets\\images\\img\\flor.png"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\omar-lopez-vTknj2OxDVg-unsplash.jpg",
+      "PackagePath": "staticwebassets\\images\\img\\omar-lopez-vTknj2OxDVg-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\img\\star.svg",
+      "PackagePath": "staticwebassets\\images\\img\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\integrantes\\arthur.jpeg",
+      "PackagePath": "staticwebassets\\images\\integrantes\\arthur.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\integrantes\\rodrigo.jpeg",
+      "PackagePath": "staticwebassets\\images\\integrantes\\rodrigo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\integrantes\\santana.jpeg",
+      "PackagePath": "staticwebassets\\images\\integrantes\\santana.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\review\\review-1.jpg",
+      "PackagePath": "staticwebassets\\images\\review\\review-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\images\\review\\review-2.jpg",
+      "PackagePath": "staticwebassets\\images\\review\\review-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\js\\cadastro.js",
+      "PackagePath": "staticwebassets\\js\\cadastro.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\js\\plugins\\simple-anime.js",
+      "PackagePath": "staticwebassets\\js\\plugins\\simple-anime.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ertal\\Documents\\Manual do Crescer\\Manual-do-Crescer\\font\\Manual-Do-Crescer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Manual-Do-Crescer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Manual-Do-Crescer.props",
+      "PackagePath": "build\\Manual-Do-Crescer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Manual-Do-Crescer.props",
+      "PackagePath": "buildMultiTargeting\\Manual-Do-Crescer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Manual-Do-Crescer.props",
+      "PackagePath": "buildTransitive\\Manual-Do-Crescer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

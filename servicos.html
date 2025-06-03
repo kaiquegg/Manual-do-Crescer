@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bibliotecas -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- Css Próprio -->
+    <link rel="stylesheet" href="./css/servicos.css">
+    <link rel="shortcut icon" href="./images/icones/favicon.png" type="image/x-icon">
+    <script>document.documentElement.classList.add("js")</script>
+    <title>Manual do Crescer - Educando que se cria um novo mundo.</title>
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navigation-wrap">
+            <div class="container">
+                <a class="navbar-brand" href="./index.html"><img src="./images/img/logo2.png" alt="" id="logo-menu"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+                    aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-stream navbar-toggler-icon"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarText">
+                    <ul class="navbar-nav navbar-padding ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="servicos.html">Serviços</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="cadastro.html">Fazer Login</a>
+                        </li>
+                        <a href="#">
+                            <li class="nav-item">
+                                <button class="main-btn" id="botao-menu">IR PARA O MANUAL</button>
+                            </li>
+                        </a>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+    <!--Formulário-->
+    <div class="alavanque-bg">
+        <!--Titulo da página-->
+        <div class="titulo container">
+            <h3 style="position: relative; font-size: 24px; color: #190038; left: 4px;">ENCONTRE O PROFISSIONAL IDEAL
+            </h3>
+            <h1 style="font-weight: bold; font-size: 60px; color: #190038;">Serviços</h1>
+        </div>
+
+        <main id="alavanque" class="container">
+            <div class="contato container fadeInUp" data-anime="800">
+                <!--Filtro-->
+                <section class="contato-dados" aria-label="Endereço">
+                    <h2>Filtro</h2>
+                    <div class="inputs-form">
+                        <label for="profissao">Profissão</label> <br>
+                        <select name="" id="" class="">
+                            <option value="" selected>Selecione uma opção</option>
+                            <option value="profissao1">Babá</option>
+                            <option value="profissao2">Professora Particular</option>
+                            <option value="profissao3">Psicólogo Infantil</option>
+                        </select>
+                    </div>
+                    <div class="habilidades">
+                        <label for="habilidades">Habilidades</label> <br>
+                        <textarea name="habilidades" id="habilidades" cols="45" rows="5"
+                            placeholder=" Informe aqui as habilidades que você precisa..."></textarea>
+                    </div>
+
+                    <div class="distancia">
+                        <label for="distancia">Localização do Profissional</label> <br>
+                        <select name="" id="" class="">
+                            <option value="" selected>Selecione uma opção</option>
+                            <option value="distancia1">1 - 5 Km</option>
+                            <option value="distancia2">6 - 15 Km</option>
+                            <option value="distancia3">16+ Km</option>
+                        </select>
+                    </div>
+
+                    <div class="preco">
+                        <label for="preco">Preço cobrado por hora</label> <br>
+                        <select name="" id="" class="">
+                            <option value="" selected>Selecione uma opção</option>
+                            <option value="preco1">Até R$ 20</option>
+                            <option value="preco2">R$ 20 - R$ 50</option>
+                            <option value="preco3">Acima de R$ 50</option>
+                        </select>
+                    </div>
+
+                    <div class="star-container">
+                        <label for="avaliacao">Avaliação</label>
+                        <div class="star-widget">
+                            <input type="radio" name="rate" id="rate-5">
+                            <label for="rate-5" class="fas fa-star"></label>
+                            <input type="radio" name="rate" id="rate-4">
+                            <label for="rate-4" class="fas fa-star"></label>
+                            <input type="radio" name="rate" id="rate-3">
+                            <label for="rate-3" class="fas fa-star"></label>
+                            <input type="radio" name="rate" id="rate-2">
+                            <label for="rate-2" class="fas fa-star"></label>
+                            <input type="radio" name="rate" id="rate-1">
+                            <label for="rate-1" class="fas fa-star"></label>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!--Cards-->
+            <div class="cards-profissionais">
+                <div class="card mt-3  bd-callout bd-callout-warning" style="width: 35rem;">
+                    <img class="card-img-top icone-profissional" src="/images/icones/baba.svg" alt="Card image cap">
+                    <div class="card-body">
+                        <h3 class="card-title">Rodrigo Costa</h3>
+                        <div class="star-widget">
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                        </div>
+                        <p class="card-text">
+                            Olá me chamo Rodrigo. Possuo uma vasta experiência em cuidados com crianças, sempre focando
+                            em proporcionar um ambiente seguro e estimulante para o desenvolvimento das crianças. Me
+                            considero comprometido e responsável.
+                        </p>
+                        <div class="card-info">
+                            <h4>R$ 18,00 /h</h4>
+                            <p>Avaliações: 104</p>
+                            <p>Horas trabalhadas: 14k</p>
+                            <a href="#" class="btn btn-primary">Contratar</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mt-3 bd-callout bd-callout-warning" style="width: 35rem;">
+                    <img class="card-img-top icone-profissional" src="/images/icones/baba.svg" alt="Card image cap">
+                    <div class="card-body">
+                        <h3 class="card-title">Kaique Egg</h3>
+                        <div class="star-widget">
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                        </div>
+                        <p class="card-text">Olá, meu nome é Kaique, Tenho experiência sólida, priorizando um ambiente
+                            seguro e estimulante para o desenvolvimento das crianças. Sou responsável, comprometido e
+                            capaz de criar rotinas consistentes, além de possuir habilidades práticas.</p>
+                        <div class="card-info">
+                            <h4>R$ 20,00 /h</h4>
+                            <p>Avaliações: 122</p>
+                            <p>Horas trabalhadas: 16k</p>
+                            <a href="#" class="btn btn-primary">Contratar</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card mt-3  bd-callout bd-callout-warning" style="width: 35rem;">
+                    <img class="card-img-top icone-profissional" src="/images/icones/baba.svg" alt="Card image cap">
+                    <div class="card-body">
+                        <h3 class="card-title">Gabriel Santana</h3>
+                        <div class="star-widget">
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                            <input disabled type="" name="" id="">
+                            <label for="" class="fas fa-star"></label>
+                        </div>
+                        <p class="card-text">Olá me chamo Gabriel. Trago uma experiência bastante considerável no
+                            cuidado com crianças, sempre buscando criar um ambiente seguro e motivador para o
+                            desenvolvimento dos pequenos. Me vejo como alguém comprometido e responsável.</p>
+                        <div class="card-info">
+                            <h4>R$ 16,00 /h</h4>
+                            <p>Avaliações: 112</p>
+                            <p>Horas trabalhadas: 13k</p>
+                            <a href="#" class="btn btn-primary">Contratar</a>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </main>
+    </div>
+
+    <!--Footer-->
+    <footer id="footer">
+        <div class="footer py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <a class="footer-link" href="#">Home</a>
+                        <a class="footer-link" href="#">Saiba Mais</a>
+                        <a class="footer-link" href="#">Ajude-nos</a>
+                        <a class="footer-link" href="#">Cadastrar</a>
+                        <div class="footer-social pt-4 text-center">
+                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a href="#"><i class="fab fa-instagram"></i></a>
+                            <a href="#"><i class="fab fa-twitter"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="footer-copy">
+                            <div class="copy-right text-center pt-5">
+                                <p class="">© 2024 Manual do Crescer. Todos os direitos reservados. </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JS Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+        integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+        integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+        crossorigin="anonymous"></script>
+    <!-- JS Próprio -->
+    <script src="./js/plugins/simple-anime.js"></script>
+    <script src="js/cadastro.js"></script>
+    <script src="./js/main.js"></script>
+
+    <script>
+        document.getElementById("botao-menu").addEventListener("click", function () {
+            window.location.href = "manual.html";
+        })
+    </script>
+
+</body>
+
+</html>

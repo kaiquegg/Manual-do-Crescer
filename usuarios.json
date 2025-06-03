@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "pedro",
+        "email": "pedro@email.com",
+        "senha": "$2y$10$JsExYYVSCNVW.zlkDdtJFOK0T6GcsjZIkDYcShJlM5cmMwnpbrs\/O"
+    },
+    {
+        "nome": "user",
+        "email": "user@email.com",
+        "senha": "$2y$10$3\/oahZzPif2mczaz\/QhyGOj6muFWczlGiWpHUBBdkofnuVK4oXRBa"
+    },
+    {
+        "nome": "teste",
+        "email": "teste@email.com",
+        "senha": "$2y$10$lVG0iZgxhhtW1.P3YsgLe.kq\/nT3lVrRvYtBdlIdspgQ2OpdjqE7u"
+    }
+]

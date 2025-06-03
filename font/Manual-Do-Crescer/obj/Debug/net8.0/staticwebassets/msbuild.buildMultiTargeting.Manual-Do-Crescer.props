@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Manual-Do-Crescer.props" />
+</Project>
